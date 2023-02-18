@@ -6,7 +6,7 @@ The website focuses on learning DOM manipulation .
 - querySelector
 - innerHTML
 
-## [Live Preview]()
+## [Live Preview](https://todo-lites.netlify.app/)
 
 ### SnapShot of the Webpage
 
